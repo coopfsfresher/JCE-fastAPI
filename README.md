@@ -215,15 +215,6 @@ alembic upgrade head
 - [**Component Library**](./docs/components.md) - React component documentation
 - [**Architecture Diagrams**](./docs/diagrams/) - System design visuals
 
-## 👨‍💻 Author
-
-**Jonathan Yushuvayev**  
-Co-Founder & Lead Developer at JD Enterprises
-env
-- [LinkedIn](https://linkedin.com/in/jonathan-yushuvayev/)
-- [GitHub](https://github.com/jyush98)
-- [Email](mailto:jyushuvayev98@gmail.com)
-
 ## 🙏 Acknowledgments
 
 Built with modern open-source technologies. Special thanks to the Next.js, FastAPI, and PostgreSQL communities for excellent documentation and support.
